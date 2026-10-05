@@ -1,2 +1,10 @@
-# An-Online-Shop
-Expands the checkout flow into a complete storefront with cart persistence, Stripe webhook handling, order history tracking, and an administrative dashboard showing sales KPIs.
+# An Online Shop
+## Concepts Practised
+- Create a Web Server with Flask
+- URL Building with Flask
+- Flask URL Paths and the Flask Debugger
+- Python Decorator Functions and the `@` Syntax
+- Stripe API
+## An Online Shop
+
+
